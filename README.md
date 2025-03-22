@@ -14,12 +14,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>Välkommen här är rabbater </h1>
-        <p>Klicka på länkarna nedan för att komma till de bästa erbjudandena!</p>
-        <a class="link" href="[DIN-AFFILIATE-LÄNK-1](https://heycash.com/register?ref=9e79784c-eecb-4978-9ee2-8070fa009ff5)" target="_blank">Erbjudande 1</a>
-        <a class="link" href="DIN-AFFILIATE-LÄNK-2" target="_blank">Erbjudande 2</a>
-        <a class="link" href="DIN-AFFILIATE-LÄNK-3" target="_blank">Erbjudande 3</a>
+        <h1>Välkommen till min Affiliate-sida</h1>
+        <p>Klicka på länken nedan för att registrera dig hos HeyCash och få de bästa erbjudandena!</p>
+        <a class="link" href="https://heycash.com/register?ref=9e79784c-eecb-4978-9ee2-8070fa009ff5" target="_blank">Registrera dig på HeyCash</a>
     </div>
 </body>
 </html>
+
 
