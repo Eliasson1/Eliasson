@@ -3,22 +3,48 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Min Affiliate Hemsida</title>
-    <style>
-        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; padding: 20px; }
-        .container { max-width: 600px; margin: auto; background: white; padding: 20px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); }
-        h1 { color: #333; }
-        .link { display: block; margin: 10px 0; padding: 10px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; }
-        .link:hover { background: #0056b3; }
-    </style>
+    <title>Välkommen till HeyCash</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body>
+    <header>
+        <h1>HeyCash - Ditt bästa val för extra inkomst</h1>
+    </header>
+
     <div class="container">
-        <h1>Välkommen till min Affiliate-sida</h1>
-        <p>Klicka på länken nedan för att registrera dig hos HeyCash och få de bästa erbjudandena!</p>
-        <a class="link" href="https://heycash.com/register?ref=9e79784c-eecb-4978-9ee2-8070fa009ff5" target="_blank">Registrera dig på HeyCash</a>
+        <h2>Vill du tjäna extra pengar online?</h2>
+        <p>Registrera dig på HeyCash och få tillgång till exklusiva erbjudanden.</p>
+        <a class="cta-button" href="https://heycash.com/register?ref=9e79784c-eecb-4978-9ee2-8070fa009ff5" target="_blank">Registrera dig på HeyCash</a>
     </div>
+
+    <footer>
+        <p>© 2024 HeyCash | Alla rättigheter förbehållna</p>
+    </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Välkommen till HeyCash</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body>
+    <header>
+        <h1>HeyCash - Ditt bästa val för extra inkomst</h1>
+    </header>
 
+    <div class="container">
+        <h2>Vill du tjäna extra pengar online?</h2>
+        <p>Registrera dig på HeyCash och få tillgång till exklusiva erbjudanden.</p>
+        <a class="cta-button" href="https://heycash.com/register?ref=9e79784c-eecb-4978-9ee2-8070fa009ff5" target="_blank">Registrera dig på HeyCash</a>
+    </div>
 
+    <footer>
+        <p>© 2024 HeyCash | Alla rättigheter förbehållna</p>
+    </footer>
+</body>
+</html>
